@@ -1,0 +1,12 @@
+{
+  "name": "safari-limitations-workaround",
+  "description": "Finding a solution to Safari's 512kb fetch limit and response text string length limitations.",
+  "author": "Kyle Andrews",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^11.1.0"
+  },
+  "scripts": {
+    "preview": "serve -d ./docs"
+  }
+}
